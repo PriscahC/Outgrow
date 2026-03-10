@@ -1,4 +1,4 @@
-# Outgrow [Web UI](https://app-a5tzymr7g1s1.appmedo.com/#)
+# [Outgrow](https://app-a5tzymr7g1s1.appmedo.com/#)
 > *Growing Capital. Growing Futures.*
 
 A closed-loop agri-capital platform connecting investors, smallholder farmers, and exporters across Africa.
